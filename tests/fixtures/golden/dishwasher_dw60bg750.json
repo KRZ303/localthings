@@ -8,6 +8,8 @@
     "cycle_active",
     "delay_start_hours",
     "diagnosis_status",
+    "drum_clean_cycles_remaining",
+    "energy_kwh",
     "energy_saved_kwh",
     "filter_status",
     "filter_usage",
@@ -19,6 +21,7 @@
     "progress_percentage",
     "remote_control",
     "sanitize",
+    "speed_booster",
     "storm_wash",
     "wash_zone",
     "water_liters"
